@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://Nezertiam:FakeBananaNews@cluster0.0tkop.mongodb.net/socialnetwork?authSource=admin&replicaSet=atlas-11x27r-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true",
-    "jwtSecret": "mysecrettoken"
-}
